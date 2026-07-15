@@ -1,16 +1,28 @@
-## Hi there 👋
+# Guilherme Rafael de Souza Araujo
 
-<!--
-**guilhermersaraujo/guilhermersaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Legal advisor, author and independent researcher working at the intersection of law, AI governance, data regulation and legal knowledge systems.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI governance and data regulation
+- Legal information retrieval
+- Knowledge engineering for legal sources
+- Regulatory intelligence
+- Traceability, evaluation and human review
+
+## ARES Lab
+
+ARES Lab is an independent research initiative focused on organizing legal and regulatory sources into structured, traceable and reusable knowledge bases.
+
+The work explores document organization, information retrieval, evidence quality, system limitations and human oversight.
+
+Most active repositories are private while the research is under development. Public releases will contain only reviewed, documented and sanitized materials.
+
+## Professional background
+
+Legal practice, institutional environments, regulatory compliance, legal education and research at the intersection of law, data and technology.
+
+## Links
+
+- LinkedIn
+- ORCID
